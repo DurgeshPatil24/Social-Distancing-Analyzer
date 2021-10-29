@@ -11,6 +11,8 @@ Social distancing is deliberately increasing the physical space between people t
 
 
 #Limitations and Future Scope:-\
-This project does not take into account the camera perspective.\
-It does not leverage a proper camera calibration (Distances are not measure accurate).\
+ - This project does not take into account the camera perspective.\
+ - It does not leverage a proper camera calibration (Distances are not measure accurate).\
+
+
 Requirements: The project doesn't include the "yolov3.cfg"(https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg) and "yolov3.weights"(https://pjreddie.com/media/files/yolov3.weights). You have to have those for maximum precision of project or else for less precision or accuracy "yolov3-tiny.cfg" and "yolov3-tiny.weights"(https://pjreddie.com/media/files/yolov3-tiny.weights) will also work. 
